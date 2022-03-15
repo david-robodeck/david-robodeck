@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @david-robodeck
 - 👀 I’m interested in ML | AI | Computer Vision
 - 🌱 I’m currently learning MSc CS at Reichman University (IDC), Israel
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data science or algorithms dev projects
 - 📫 How to reach me: david@robodeck.com
 
 <!---
